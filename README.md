@@ -1,7 +1,10 @@
 # holiday checkup 
 A python library for checking and detecting the holiday status of the Gregorian date in solar Hijri and lunar Hijri calendar
 
-+ Python 3.x support [![PyPi version](https://img.shields.io/pypi/v/holiday-checkup.svg)](https://pypi.python.org/pypi/holiday-checkup/)
+[![PyPi version](https://img.shields.io/pypi/v/holiday-checkup.svg)](https://pypi.python.org/pypi/holiday-checkup/)
+[![](https://img.shields.io/badge/python-3.5+-blue.svg)](https://www.python.org/downloads/) 
+![t](https://img.shields.io/badge/status-stable-green.svg) 
+[![](https://img.shields.io/github/license/khalooei/holiday-checkup.svg)](https://github.com/khalooei/holiday-checkup/blob/master/LICENSE.md) 
 
 
 
