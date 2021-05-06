@@ -30,7 +30,7 @@ A python library for checking and detecting the holiday status of the Gregorian 
 
 ## Installation
 
-The latest stable version of HoidayCheck can be installed through `pip`:
+The latest stable version of HolidayCheck can be installed through `pip`:
 
 	pip install holiday-check
 
