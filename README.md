@@ -5,6 +5,13 @@ A python library for checking and detecting the holiday status of the Gregorian 
 
 
 
+## Installation
+
+The latest stable version of HolidayCheck can be installed through `pip`:
+
+	pip install holiday-check
+
+
 
 ## Usage
 
@@ -27,16 +34,9 @@ A python library for checking and detecting the holiday status of the Gregorian 
 ```
 
 
-
-## Installation
-
-The latest stable version of HolidayCheck can be installed through `pip`:
-
-	pip install holiday-check
-
-But for testing or using HoidayCheck with the latest updates you may use:
+## build/test 
+For testing or using HoidayCheck with the latest updates you may use:
 
 	pip install https://github.com/khalooei/holiday-check/archive/master.zip --upgrade
-
 
 
