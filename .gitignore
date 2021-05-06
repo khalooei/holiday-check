@@ -2,3 +2,4 @@
 build
 dist
 *.pyc
+holiday_check.egg-info
