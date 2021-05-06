@@ -30,7 +30,7 @@ The latest stable version of HolidayCheck can be installed through `pip`:
 {
    'weekend_status': {'status': False, 'comment': 'it is Sunday and is a normal day in iran'}, 
    'official_iran_holiday_status': {'status': True, 'comment': "it is norooz and is in the iran's official holiday list"}, 
-   'official_islam_holiday_status': {'status': False, 'comment': "it is eid ghadir and is in the islam's official holiday list"}
+   'official_lunar_holiday_status': {'status': False, 'comment': "it is eid ghadir and is in the lunar hijri's official holiday list"}
  }
 
 
@@ -39,7 +39,7 @@ The latest stable version of HolidayCheck can be installed through `pip`:
 {
    'weekend_status': {'status': False, 'comment': 'it is Sun and is a normal day in iran'}, 
    'official_iran_holiday_status': {'status': False, 'comment': "it is melli shodan naft and is in the iran's official holiday list"}, 
-   'official_islam_holiday_status': {'status': True, 'comment': "it is birth of imam zaman  and is in the islam's official holiday list"}
+   'official_lunar_holiday_status': {'status': True, 'comment': "it is birth of imam zaman  and is in the lunar hijri's official holiday list"}
 }
 ```
 
