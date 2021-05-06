@@ -28,7 +28,7 @@ The latest stable version of HolidayCheck can be installed through `pip`:
 >>> specific_datatime = jdatetime.date(1400, 1, 1, locale='fa_IR').togregorian()
 >>> print(hc.get_holiday_status_of_datetime(specific_datatime))
 {
-   'weekend_status': {'status': False, 'comment': 'it is Sun and is a normal day in iran'}, 
+   'weekend_status': {'status': False, 'comment': 'it is Sunday and is a normal day in iran'}, 
    'official_iran_holiday_status': {'status': True, 'comment': "it is norooz and is in the iran's official holiday list"}, 
    'official_islam_holiday_status': {'status': False, 'comment': "it is eid ghadir and is in the islam's official holiday list"}
  }
