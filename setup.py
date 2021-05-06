@@ -2,20 +2,20 @@ from setuptools import setup
 
 
 setup(
-    name='holiday-check',
+    name='holiday-checkup',
     version='0.1',
-    url='https://github.com/khalooei/holiday-check',
+    url='https://github.com/khalooei/holiday-checkup',
     license='MIT',
     description='A python library for checking and detecting the holiday status of the Gregorian date in solar Hijri and lunar Hijri calendar ',
     author='Mohammad Khalooei',
-    packages=['SalavatiHolidayCheck'],
+    packages=['SalavatiHolidayCheckup'],
     install_requires=[
           'jdatetime',
           'hijri_converter',
       ],
     project_urls={
-        'Changelog': ('https://github.com/khalooei/holiday-check/README.md'),
-        'Docs': 'https://github.com/khalooei/holiday-check/README.md',
+        'Changelog': ('https://github.com/khalooei/holiday-checkup/README.md'),
+        'Docs': 'https://github.com/khalooei/holiday-checkup/README.md',
     },
     classifiers=[
         'License :: OSI Approved :: MIT License',

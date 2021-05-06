@@ -1,4 +1,4 @@
-# holiday check 
+# holiday checkup 
 A python library for checking and detecting the holiday status of the Gregorian date in solar Hijri and lunar Hijri calendar
 
 + Python 3.x support
@@ -17,14 +17,14 @@ or
 
 The latest stable version of HolidayCheck can be installed through `pip`:
 
-	pip install holiday-check
+	pip install holiday-checkup
 
 
 
 ## Usage
 
 ```python
->>> from SalavatiHolidayCheck import HolidayCheck
+>>> from SalavatiHolidayCheckup import HolidayCheck
 >>> from hijri_converter import convert
 >>> import jdatetime
 
@@ -45,6 +45,6 @@ The latest stable version of HolidayCheck can be installed through `pip`:
 ## build/test 
 For testing or using HoidayCheck with the latest updates you may use:
 
-	pip install https://github.com/khalooei/holiday-check/archive/master.zip --upgrade
+	pip install https://github.com/khalooei/holiday-checkup/archive/master.zip --upgrade
 
 
