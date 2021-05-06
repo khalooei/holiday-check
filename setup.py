@@ -1,6 +1,5 @@
 from setuptools import setup
 
-DESCRIPTION = open('README.md').read()
 
 setup(
     name='holiday-check',
@@ -8,7 +7,6 @@ setup(
     url='https://github.com/khalooei/holiday-check',
     license='MIT',
     description='A python library for checking and detecting the holiday status of the Gregorian date in solar Hijri and lunar Hijri calendar ',
-    long_description=DESCRIPTION,
     author='Mohammad Khalooei',
     packages=['SalavatiHolidayCheck'],
     install_requires=[
