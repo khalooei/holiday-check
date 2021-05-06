@@ -6,15 +6,6 @@ A python library for checking and detecting the holiday status of the Gregorian 
 
 
 ## Installation
-First install the requirements 
-    
-    pip install -r requirements.txt
-
-or
-
-    pip install jdatetime hijri_converter
-
-
 The latest stable version of HolidayCheck can be installed through `pip`:
 
 	pip install holiday-checkup
